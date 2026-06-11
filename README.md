@@ -21,7 +21,7 @@ Designed with simplicity and functionality in mind, COSTY demonstrates how moder
 * Custom "Cart Empty" page
 * Modular SCSS architecture for maintainable styling
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * SCSS (Sass)
@@ -40,7 +40,7 @@ The application follows a modular architecture:
 * **ui.js** → Renders products and cart elements
 * **SCSS modules** → Organized styles for header, products, cart, footer, and responsive layouts
 
-## 🚀 Functionality
+##  Functionality
 
 Users can:
 
