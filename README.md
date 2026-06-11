@@ -25,7 +25,7 @@ Designed with simplicity and functionality in mind, COSTY demonstrates how moder
 
 * HTML5
 * SCSS (Sass)
-* Vanilla JavaScript (ES6 Modules)
+* JavaScript (ES6 Modules)
 * Local Storage API
 * Fetch API
 * CSS Grid & Flexbox
