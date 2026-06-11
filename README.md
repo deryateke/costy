@@ -71,3 +71,10 @@ Through this project, I strengthened my understanding of:
 
 ##
 
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./preview.gif" alt="COSTY Preview" width="100%">
+</p>
+
