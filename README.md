@@ -2,7 +2,7 @@
 
 # 🛍️ COSTY - Modern Shopping Cart Experience
 
-COSTY is a responsive e-commerce web application built with **HTML**, **SCSS**, and JavaScript**. The project provides a smooth and user-friendly shopping experience where users can browse products, add items to their cart, manage quantities, and view the total amount dynamically.
+COSTY is a responsive e-commerce web application built with **HTML**, **SCSS**, and JavaScript. The project provides a smooth and user-friendly shopping experience where users can browse products, add items to their cart, manage quantities, and view the total amount dynamically.
 
 Designed with simplicity and functionality in mind, COSTY demonstrates how modern front-end technologies can be used to create an interactive shopping platform without relying on external frameworks.
 
