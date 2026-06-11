@@ -6,7 +6,7 @@ COSTY is a responsive e-commerce web application built with **HTML**, **SCSS**, 
 
 Designed with simplicity and functionality in mind, COSTY demonstrates how modern front-end technologies can be used to create an interactive shopping platform without relying on external frameworks.
 
-## ✨ Features
+##  Features
 
 * Browse products fetched from a local JSON data source
 * Add products to the shopping cart
