@@ -75,6 +75,6 @@ Through this project, I strengthened my understanding of:
 ## 📸 Preview
 
 
-  <img src="./preview.gif" alt="COSTY Preview" width="100%">
+  <img src="./costy.gif" alt="COSTY Preview">
 
 
